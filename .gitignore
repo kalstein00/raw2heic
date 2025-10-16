@@ -1,0 +1,14 @@
+# Intermediate files for Ultra HDR conversion
+*_sdr.jpg
+*_hdr.tiff
+*_hdr.raw
+*.hif
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Build artifacts
+libultrahdr/build/
+libultrahdr/bin/
+libultrahdr/lib/
